@@ -1,0 +1,997 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e51d4e7f-6512-412f-8ab8-f72dcc00851e" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/multi$BasicScriptGitCmd.coverage" NAME="BasicScriptGitCmd Coverage Results" MODIFIED="1598190347628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../test/test" />
+    <SUITE FILE_PATH="coverage/multi$BasicScriptGitCmd__1_.coverage" NAME="BasicScriptGitCmd (1) Coverage Results" MODIFIED="1598190699888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unPython/src/git" />
+    <SUITE FILE_PATH="coverage/multi$main.coverage" NAME="main Coverage Results" MODIFIED="1597546343026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unPython/src/git" />
+    <SUITE FILE_PATH="coverage/multi$Try.ic" NAME="Try Coverage Results" MODIFIED="1599196986121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/multi$py2.coverage" NAME="py2 Coverage Results" MODIFIED="1598189882326" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unPython/src" />
+    <SUITE FILE_PATH="coverage/multi$py.coverage" NAME="py Coverage Results" MODIFIED="1598191771076" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unPython/src" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Sort.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/unJava/src/sort/Sort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+              <folding>
+                <element signature="method#Sort#0;class#Sort#0" />
+                <element signature="docComment;method#bubbleSort#0;class#Sort#0" />
+                <element signature="method#bubbleSort#0;class#Sort#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Try.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/unJava/src/Try.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HotSpotDiagnostic.java" pinned="false" current-in-tab="false">
+        <entry file="jar://D:/ProgramFiles/Java/jdk-14.0.1/lib/src.zip!/jdk.management/com/sun/management/internal/HotSpotDiagnostic.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="32" selection-start-line="32" selection-end-line="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Enter.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/unJava/src/qianxi/library/Enter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="39" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>repository</find>
+      <find>filename</find>
+      <find>i &lt; tmp.length</find>
+      <find>mergeSort(arr, low, mid);</find>
+      <find>mergeSort(arr, mid + 1, high);</find>
+      <find>int[] tmp = new int[high - low + 1];</find>
+      <find>int l = low, h = mid + 1;</find>
+      <find>main</find>
+      <find>encoding</find>
+      <find>Latin1</find>
+      <find>toIndex</find>
+      <find>find</find>
+      <find>public int find</find>
+      <find>connected</find>
+      <find>mergeSort</find>
+      <find>writer(</find>
+      <find>compareTo</find>
+      <find>compareTo(</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/unPython/src/git/BasicScriptGitCmd.py" />
+        <option value="$PROJECT_DIR$/unPython/src/git/main.py" />
+        <option value="$PROJECT_DIR$/unJava/src/Sort.java" />
+        <option value="$PROJECT_DIR$/unJava/src/sort/tExample.java" />
+        <option value="$PROJECT_DIR$/unJava/src/sort/SysIn.java" />
+        <option value="$PROJECT_DIR$/unJava/src/sort/Example.java" />
+        <option value="$PROJECT_DIR$/unJava/src/sort/SortTemplate.java" />
+        <option value="$PROJECT_DIR$/unJava/src/sort/SortTemp.java" />
+        <option value="$PROJECT_DIR$/unJava/src/Search.java" />
+        <option value="$PROJECT_DIR$/unJava/src/search/Search.java" />
+        <option value="$PROJECT_DIR$/unJava/src/BinarySearch.java" />
+        <option value="$PROJECT_DIR$/unJava/src/algorithms/search/Search.java" />
+        <option value="$PROJECT_DIR$/unJava/src/IOTry.java" />
+        <option value="$PROJECT_DIR$/unJava/src/algorithms/first/BinarySearch.java" />
+        <option value="$PROJECT_DIR$/unJava/src/algorithms/Algorithms.java" />
+        <option value="$PROJECT_DIR$/out/production/unJava/write.txt" />
+        <option value="$PROJECT_DIR$/unJava/src/algorithms/sort/Sort.java" />
+        <option value="$PROJECT_DIR$/unJava/src/algorithms/sort/SortInterface.java" />
+        <option value="$PROJECT_DIR$/unJava/src/algorithms/sort/SortInter.java" />
+        <option value="$PROJECT_DIR$/unJava/src/algorithms/sort/SortTry.java" />
+        <option value="$PROJECT_DIR$/unJava/src/Genome.java" />
+        <option value="$PROJECT_DIR$/unJava/src/Demo.java" />
+        <option value="$PROJECT_DIR$/unJava/src/write.txt" />
+        <option value="$PROJECT_DIR$/unJava/src/sort/SortTry.java" />
+        <option value="$PROJECT_DIR$/unJava/src/sort/SortImpl.java" />
+        <option value="$PROJECT_DIR$/unJava/src/algorithms/five/Genome.java" />
+        <option value="$PROJECT_DIR$/unJava/src/algorithms/five/compress/Genome.java" />
+        <option value="$PROJECT_DIR$/unJava/src/stream/StreamImpl.java" />
+        <option value="$PROJECT_DIR$/unJava/src/read.txt" />
+        <option value="$PROJECT_DIR$/unJava/src/unionfind/UF.java" />
+        <option value="$PROJECT_DIR$/unJava/src/Solution.java" />
+        <option value="$PROJECT_DIR$/unJava/src/sort/SortTemplate/Sort.java" />
+        <option value="$PROJECT_DIR$/unJava/src/sort/SortTemplate/SortTemplate.java" />
+        <option value="$PROJECT_DIR$/unJava/src/sort/SortTemplate/SortImpl.java" />
+        <option value="$PROJECT_DIR$/unJava/src/sort/SortTemplate/SortTemp.java" />
+        <option value="$PROJECT_DIR$/unJava/src/sort/SortTemplate/SortTest.java" />
+        <option value="$PROJECT_DIR$/unJava/src/sort/sortTemplate/SortTest.java" />
+        <option value="$PROJECT_DIR$/unJava/src/sort/template/SortTemp.java" />
+        <option value="$PROJECT_DIR$/unJava/src/library/Stopwatch.java" />
+        <option value="$PROJECT_DIR$/unJava/src/qianxi/library/SortTemp.java" />
+        <option value="$PROJECT_DIR$/unJava/src/sort/template/SortTest.java" />
+        <option value="$PROJECT_DIR$/unJava/src/qianxi/library/constant.java" />
+        <option value="$PROJECT_DIR$/unJava/src/qianxi/library/A.java" />
+        <option value="$PROJECT_DIR$/unJava/src/qianxi/library/Stopwatch.java" />
+        <option value="$PROJECT_DIR$/unJava/src/swing/Swing.java" />
+        <option value="$PROJECT_DIR$/unJava/src/swing/DrawFunction.java" />
+        <option value="$PROJECT_DIR$/unJava/src/qianxi/library/EnterToContinue.java" />
+        <option value="$PROJECT_DIR$/unJava/src/qianxi/library/Enter.java" />
+        <option value="$PROJECT_DIR$/unJava/src/qianxi/library/Sort.java" />
+        <option value="$PROJECT_DIR$/unJava/src/sort/Sort.java" />
+        <option value="$PROJECT_DIR$/unJava/src/Try.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JRebelWorkspace">
+    <option name="jrebelEnabledAutocompile" value="true" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\Users\nameqianxi\.m2\repository" />
+        <option name="userSettingsFile" value="C:\Users\nameqianxi\.m2\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="multi" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="54" />
+    <option name="y" value="-8" />
+    <option name="width" value="666" />
+    <option name="height" value="775" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <autoscrollToSource ProjectPane="true" />
+      <autoscrollFromSource ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="multi" type="1abcf292:AndroidViewProjectNode" />
+              <item name="unJava" type="e9137016:NonAndroidModuleNode" />
+            </path>
+            <path>
+              <item name="multi" type="1abcf292:AndroidViewProjectNode" />
+              <item name="unJava" type="e9137016:NonAndroidModuleNode" />
+              <item name="java" type="f7eae187:NonAndroidSourceTypeNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="multi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="multi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="multi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="multi" type="462c0819:PsiDirectoryNode" />
+              <item name="unJava" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="multi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="multi" type="462c0819:PsiDirectoryNode" />
+              <item name="unJava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="multi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="multi" type="462c0819:PsiDirectoryNode" />
+              <item name="unJava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="library" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="multi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="multi" type="462c0819:PsiDirectoryNode" />
+              <item name="unJava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="sort" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="multi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="multi" type="462c0819:PsiDirectoryNode" />
+              <item name="unJava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="sort" type="462c0819:PsiDirectoryNode" />
+              <item name="Sort" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="multi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="multi" type="462c0819:PsiDirectoryNode" />
+              <item name="unJava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Try" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="multi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="multi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 14 &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="multi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 14 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="jdk.management" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="multi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 14 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="jdk.management" type="462c0819:PsiDirectoryNode" />
+              <item name="management" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="multi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 14 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="jdk.management" type="462c0819:PsiDirectoryNode" />
+              <item name="management" type="462c0819:PsiDirectoryNode" />
+              <item name="internal" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="multi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 14 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="jdk.management" type="462c0819:PsiDirectoryNode" />
+              <item name="management" type="462c0819:PsiDirectoryNode" />
+              <item name="internal" type="462c0819:PsiDirectoryNode" />
+              <item name="HotSpotDiagnostic" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="multi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 14 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="jdk.management" type="462c0819:PsiDirectoryNode" />
+              <item name="management" type="462c0819:PsiDirectoryNode" />
+              <item name="HotSpotDiagnosticMXBean" type="1a9f42e2:ClassTreeNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.PYTHON_MODULE" value="Python 3.7" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../Hopshine" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="settings.saveactions" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="algorithms" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\ProgramData\Git\my.project.test\IdeaProjects\multi\unJava\src\qianxi" />
+      <recent name="D:\ProgramData\Git\my.project.test\IdeaProjects\multi" />
+      <recent name="D:\ProgramData\Git\my.project.test\IdeaProjects\multi\unJava\src\algorithms\five\compress" />
+      <recent name="D:\ProgramData\Git\my.project.test\IdeaProjects\multi\unPython\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Sort">
+    <configuration name="DrawFunction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="swing.DrawFunction" />
+      <module name="unJava" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="swing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sort.Sort" />
+      <module name="unJava" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="SortTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sort.template.SortTest" />
+      <module name="unJava" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="qianxi.library.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="qianxi.library.Sort" />
+      <module name="unJava" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="qianxi.library.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="qianxi.library.Sort" />
+      <module name="unJava" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="qianxi.library.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Try" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Try" />
+      <module name="unJava" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Sort" />
+      <item itemvalue="Application.SortTest" />
+      <item itemvalue="Application.DrawFunction" />
+      <item itemvalue="Application.Try" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Sort" />
+        <item itemvalue="Application.Try" />
+        <item itemvalue="Application.DrawFunction" />
+        <item itemvalue="Application.SortTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e51d4e7f-6512-412f-8ab8-f72dcc00851e" name="Default" comment="" />
+      <created>1597155814846</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597155814846</updated>
+      <workItem from="1597155826939" duration="1843000" />
+      <workItem from="1597157734603" duration="5378000" />
+      <workItem from="1597404378768" duration="4832000" />
+      <workItem from="1597457384856" duration="58000" />
+      <workItem from="1597457642370" duration="3992000" />
+      <workItem from="1597478753867" duration="15887000" />
+      <workItem from="1597762502462" duration="2655000" />
+      <workItem from="1597849443422" duration="242000" />
+      <workItem from="1597849706269" duration="58000" />
+      <workItem from="1597849771220" duration="1758000" />
+      <workItem from="1598009822155" duration="10770000" />
+      <workItem from="1598316872292" duration="12721000" />
+      <workItem from="1598341508252" duration="9604000" />
+      <workItem from="1598416936740" duration="1828000" />
+      <workItem from="1598419851640" duration="8808000" />
+      <workItem from="1598431656461" duration="3607000" />
+      <workItem from="1598489173530" duration="22180000" />
+      <workItem from="1598575603021" duration="23930000" />
+      <workItem from="1598749150125" duration="22584000" />
+      <workItem from="1598836607447" duration="5652000" />
+      <workItem from="1598851311415" duration="859000" />
+      <workItem from="1598860428967" duration="1006000" />
+      <workItem from="1598861619613" duration="8089000" />
+      <workItem from="1598921654453" duration="7839000" />
+      <workItem from="1598932713177" duration="14123000" />
+      <workItem from="1599009279689" duration="17586000" />
+      <workItem from="1599093599349" duration="4140000" />
+      <workItem from="1599111765550" duration="3099000" />
+      <workItem from="1599118430640" duration="298000" />
+      <workItem from="1599118914307" duration="1007000" />
+      <workItem from="1599121583907" duration="4374000" />
+      <workItem from="1599128542048" duration="628000" />
+      <workItem from="1599129367545" duration="2254000" />
+      <workItem from="1599131700802" duration="34000" />
+      <workItem from="1599131984650" duration="15036000" />
+      <workItem from="1599214478271" duration="428000" />
+      <workItem from="1599275256168" duration="82000" />
+      <workItem from="1599300252007" duration="28000" />
+      <workItem from="1599300918739" duration="3025000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="242322000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="54" y="-8" width="1320" height="784" extended-state="6" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50158733" side_tool="true" weight="0.4372093" />
+      <window_info anchor="bottom" id="JRebel Console" order="7" sideWeight="0.5031746" side_tool="true" weight="0.4608295" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.32936507" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="JRebel Executor" order="7" weight="0.32822084" />
+      <window_info anchor="right" id="Word Book" order="4" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Designer" order="3" />
+      <window_info anchor="bottom" id="Tail" order="7" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info active="true" id="Structure" order="1" sideWeight="0.51993865" side_tool="true" visible="true" weight="0.18650794" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4968254" weight="0.45171338" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3297546" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4984127" weight="0.26127526" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.5490798" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.48006135" visible="true" weight="0.18650794" />
+      <window_info anchor="bottom" id="Problems" order="12" weight="0.3297546" />
+      <window_info id="JRebel" order="2" sideWeight="0.50153375" side_tool="true" weight="0.2484127" />
+      <window_info anchor="right" id="SciView" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="right" id="Coverage" order="10" side_tool="true" weight="0.32936507" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="JRebel Setup Guide" order="4" weight="0.32936507" />
+      <window_info anchor="right" id="Translation Assistant" order="4" weight="0.47142857" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32817337" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32668713" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="9" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://D:/ProgramFiles/Java/jdk-14.0.1/lib/src.zip!/java.base/java/lang/StringLatin1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="39" column="31" lean-forward="true" selection-start-line="39" selection-start-column="31" selection-end-line="39" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/ProgramFiles/Java/jdk-14.0.1/lib/src.zip!/java.base/java/lang/StringUTF16.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="1382" column="23" selection-start-line="1382" selection-start-column="23" selection-end-line="1382" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/ProgramFiles/Java/jdk-14.0.1/lib/src.zip!/java.base/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="162" column="23" selection-start-line="162" selection-start-column="23" selection-end-line="162" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://MAVEN/com.example:multi:1.0-SNAPSHOT">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MAVEN</ID>
+          <OriginalElement>com.example:multi:1.0-SNAPSHOT</OriginalElement>
+          <nodes>
+            <node x="" y="">com.example:multi:1.0-SNAPSHOT</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="30.0" y="16.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>All</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/ProgramFiles/Java/jdk-14.0.1/lib/src.zip!/java.base/java/lang/Character.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="167" column="4" selection-start-line="167" selection-start-column="4" selection-end-line="167" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/ProgramFiles/Java/algs4.jar!/edu/princeton/cs/algs4/Alphabet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2890">
+          <caret line="190" column="5" selection-start-line="185" selection-start-column="4" selection-end-line="190" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/ProgramFiles/Java/algs4.jar!/edu/princeton/cs/algs4/BinarySearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="952">
+          <caret line="79" column="22" selection-start-line="79" selection-start-column="22" selection-end-line="79" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/ProgramFiles/Java/algs4.jar!/edu/princeton/cs/algs4/BinaryIn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="45" column="19" selection-start-line="45" selection-start-column="19" selection-end-line="45" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/ProgramFiles/Java/algs4.jar!/edu/princeton/cs/algs4/BinaryStdIn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="37" column="19" selection-start-line="37" selection-start-column="19" selection-end-line="37" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/ProgramFiles/Java/algs4.jar!/edu/princeton/cs/algs4/BinaryStdOut.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="34" column="19" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unJava/src/compress/genomeVirus.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unJava/src/compress/genomeTiny.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unJava/src/compress/Genome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="62" column="6" selection-start-line="62" selection-start-column="6" selection-end-line="62" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/ProgramFiles/Java/algs4.jar!/edu/princeton/cs/algs4/ST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1054">
+          <caret line="75" column="7" selection-start-line="75" selection-start-column="7" selection-end-line="75" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/ProgramFiles/Java/jdk-14.0.1/lib/src.zip!/java.base/java/lang/System.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1921">
+          <caret line="191" column="11" selection-start-line="191" selection-start-column="11" selection-end-line="191" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unJava/src/stream/StreamImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="10" lean-forward="true" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/ProgramFiles/Java/algs4.jar!/edu/princeton/cs/algs4/StdIn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="250" column="26" selection-start-line="250" selection-start-column="26" selection-end-line="250" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unJava/src/read.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/ProgramFiles/Java/jdk-14.0.1/lib/src.zip!/java.base/java/lang/Runnable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="55" column="26" lean-forward="true" selection-start-line="55" selection-end-line="55" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/ProgramFiles/Java/jdk-14.0.1/lib/src.zip!/java.base/java/util/stream/IntPipeline.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="489" column="21" selection-start-line="489" selection-start-column="21" selection-end-line="489" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/ProgramFiles/Java/jdk-14.0.1/lib/src.zip!/java.base/java/util/stream/IntStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="505" column="8" selection-start-line="505" selection-start-column="8" selection-end-line="505" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/ProgramFiles/Java/jdk-14.0.1/lib/src.zip!/java.base/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="1337" column="45" lean-forward="true" selection-start-line="1337" selection-start-column="45" selection-end-line="1337" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/ProgramFiles/Java/jdk-14.0.1/lib/src.zip!/java.base/java/util/Comparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="149" column="8" selection-start-line="149" selection-start-column="8" selection-end-line="149" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unJava/src/Demo.java" />
+    <entry file="jar://D:/ProgramFiles/Java/algs4.jar!/edu/princeton/cs/algs4/StdDraw.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="1622" column="61" selection-start-line="1622" selection-start-column="61" selection-end-line="1622" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/ProgramFiles/Java/algs4.jar!/edu/princeton/cs/algs4/StdOut.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="77" column="34" selection-start-line="77" selection-start-column="27" selection-end-line="77" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unJava/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unJava/src/unionfind/UF.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="412">
+          <caret line="71" selection-end-line="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/ProgramFiles/Java/jdk-14.0.1/lib/src.zip!/java.base/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="1461" column="5" lean-forward="true" selection-start-line="1459" selection-end-line="1461" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unJava/src/sort/SortTemplate/SortTemplate.java" />
+    <entry file="jar://D:/ProgramFiles/Java/jdk-14.0.1/lib/src.zip!/java.base/java/util/Random.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="530" column="18" selection-start-line="530" selection-start-column="18" selection-end-line="530" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/ProgramFiles/Java/algs4.jar!/edu/princeton/cs/algs4/StdRandom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="75" column="21" selection-start-line="75" selection-start-column="21" selection-end-line="75" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/ProgramFiles/Java/algs4.jar!/edu/princeton/cs/algs4/Stopwatch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/ProgramFiles/Java/jdk-14.0.1/lib/src.zip!/java.base/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="282" column="58" selection-start-line="282" selection-start-column="46" selection-end-line="282" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unJava/src/sort/template/SortTest.java" />
+    <entry file="file://$PROJECT_DIR$/unJava/src/qianxi/library/AB.java" />
+    <entry file="file://$PROJECT_DIR$/unJava/src/qianxi/library/C.java" />
+    <entry file="file://$PROJECT_DIR$/unJava/src/qianxi/library/A.java" />
+    <entry file="file://$PROJECT_DIR$/unJava/src/qianxi/library/Constant.java" />
+    <entry file="jar://D:/ProgramFiles/Java/jdk-14.0.1/lib/src.zip!/java.base/java/lang/Comparable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="497">
+          <caret line="95" column="17" selection-start-line="95" selection-start-column="17" selection-end-line="95" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unJava/src/qianxi/library/Stopwatch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="3" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unJava/src/qianxi/library/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="8" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/ProgramFiles/Java/jdk-14.0.1/lib/src.zip!/java.base/java/lang/Math.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="310" column="25" selection-start-line="310" selection-start-column="25" selection-end-line="310" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unJava/src/swing/DrawFunction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/ProgramFiles/Java/jdk-14.0.1/lib/src.zip!/java.base/java/util/Scanner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="2259" column="43" lean-forward="true" selection-start-line="2259" selection-start-column="43" selection-end-line="2259" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unJava/src/qianxi/library/Enter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="39" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unJava/src/qianxi/library/Sort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="105" column="56" lean-forward="true" selection-start-line="105" selection-start-column="56" selection-end-line="105" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unJava/src/sort/Sort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+          <folding>
+            <element signature="method#Sort#0;class#Sort#0" />
+            <element signature="docComment;method#bubbleSort#0;class#Sort#0" />
+            <element signature="method#bubbleSort#0;class#Sort#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/ProgramFiles/Java/jdk-14.0.1/lib/src.zip!/jdk.management/com/sun/management/HotSpotDiagnosticMXBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="53" column="10" lean-forward="true" selection-start-line="53" selection-start-column="10" selection-end-line="53" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/ProgramFiles/Java/jdk-14.0.1/lib/src.zip!/jdk.management/com/sun/management/internal/HotSpotDiagnostic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="32" selection-start-line="32" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unJava/src/Try.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Python</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Python 3.7 interpreter library</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>14</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>unJava</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
